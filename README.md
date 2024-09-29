@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 I'm a passionate backend developer, though I'm a rookie have huge interest in new tech, network engineering, computer architecture, system design and coumputer concepts. Additionally, I have a strong foundation in classical programming concepts and its application.
 
 Currently, I'm trying to expand my interest and seek knowledge from multiple programming domains.
-      
+
+#### Holopin badges
+[![@000shobhit000's Holopin board](https://holopin.me/000shobhit000)](https://holopin.io/@000shobhit000)
    
 ### Social media: 📡    
 Connect me on linkedIn, where I do nothing, but we can talk if you need so. 
